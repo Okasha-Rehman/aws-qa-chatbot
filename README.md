@@ -13,7 +13,7 @@ AI-powered chatbot for AWS documentation using FastAPI backend and Streamlit fro
 
 1. Clone repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Okasha-Rehman/aws-qa-chatbot
 cd aws-mcp-fastapi
 ```
 
