@@ -46,5 +46,5 @@ uv run streamlit run frontend.py
 - FastAPI
 - Streamlit
 - LangChain
-- Groq LLM
+- Groq LLM(llama 3.3 70B but you can change it to your own need in backend.py)
 - MCP (Model Context Protocol)
